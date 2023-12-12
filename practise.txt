@@ -1,4 +1,5 @@
 git clone
 git add
 git commit -m
+git remote set-url --delete origin url
 git status
